@@ -1,5 +1,6 @@
 # SoC-2k21
 Checkpoint 1 (11th April, 2021)
+
 We learnt the basics of python, its libraries and learnt about numpy, pandas, matplotlib and seaborn libraries in detail. 
 
 Task 1 (ID: A1):
@@ -11,6 +12,7 @@ In this task, we used the matplotlib library to plot histograms, and other graph
 We also found the mean, variance, median, etc for different variables.
 
 Checkpoint 2(8th June, 2021)
+
 We did 2 tasks as a part of checkpoint,
 
 Task 4 (ID: B3)-
@@ -34,3 +36,4 @@ Our dataset is made of characters from the movie 'Jurassic World', 'Jurassic Par
 This program will be able to recognise these characters in both image and video format.
 It also creates a cluster/montage of similar faces.  
 
+The practise folder has the colab and jupyter notebooks I maintained during the learning phase and contains the examples and mini projects we tried out.
